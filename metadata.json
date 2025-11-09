@@ -1,0 +1,5 @@
+{
+  "name": "Plataforma de Búsqueda Semántica",
+  "description": "Una plataforma minimalista e intuitiva para buscar, previsualizar, traducir y generar flashcards a partir de fuentes de conocimiento certificadas, incluyendo documentos, videos, foros y noticias.",
+  "requestFramePermissions": []
+}
